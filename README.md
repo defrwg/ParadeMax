@@ -1,9 +1,8 @@
 # ParadeMax
-# Pride Plus
 A free mixin-based injection hacked-client for Minecraft using Minecraft Forge, supporting versions 1.12.2
 
 ## Based
-Based **LiquidBounce** & **PridePlus**. Thank **_CCBlueX_** and **_WaWa_**
+Based **ParadeMax** & **PridePlus**. Thank **_Qi_** and **_WaWa_**
 
 ## QQ Group
 Group : ParadeMax
